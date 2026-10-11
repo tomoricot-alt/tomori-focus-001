@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "TOMORI FOCUS",
+    "slug": "tomori-focus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F4F1EA",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F4F1EA"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tomoriapplab.focus"
+    },
+    "android": {
+      "package": "com.tomoriapplab.focus",
+      "adaptiveIcon": {
+        "backgroundColor": "#F4F1EA",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png",
+      "name": "TOMORI FOCUS",
+      "shortName": "FOCUS",
+      "lang": "ja",
+      "backgroundColor": "#F4F1EA",
+      "themeColor": "#F4F1EA"
+    },
+    "experiments": {
+      "baseUrl": "/tomori-focus-001"
+    }
+  }
+}

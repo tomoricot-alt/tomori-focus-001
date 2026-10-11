@@ -4,6 +4,8 @@
 
 サーバー・ログイン・有料API・外部通信は一切不要。記録はすべて端末内に保存されます。
 
+**▶ アプリを使う:** https://tomoricot-alt.github.io/tomori-focus-001/　／　**📖 使い方:** [docs/USER_GUIDE.md](docs/USER_GUIDE.md)
+
 ## 機能
 
 - 25分の集中タイマー / 5分の休憩タイマー（完了すると自動で次のモードへ切替）
